@@ -1,2 +1,2 @@
-Prediction of Wine Quality Using Machine Learning Algorithms
-DataSet obtained from Kaggle
+1.Prediction of Wine Quality Using Machine Learning Algorithms
+2.DataSet obtained from Kaggle
